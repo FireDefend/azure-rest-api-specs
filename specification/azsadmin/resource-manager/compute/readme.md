@@ -24,12 +24,12 @@ These are the global settings for the Compute API.
 title: ComputeAdminClient
 description: Compute Admin Client
 openapi-type: arm
-tag: package-2018-02-09
+tag: package-2021-04-01
 ```
 
 ### Tag: package-2018-02-09
 
-These settings apply only when `--tag=package-2018-02-09` is specified on the command line.
+These settings apply only when `--tag=package-2021-04-01` is specified on the command line.
 
 ``` yaml $(tag) == 'package-2018-02-09'
 input-file:
