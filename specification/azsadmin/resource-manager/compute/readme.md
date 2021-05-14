@@ -86,6 +86,8 @@ input-file:
   - $(this-folder)/Microsoft.Compute.Admin/preview/2015-12-01-preview/PlatformImages.json
   - $(this-folder)/Microsoft.Compute.Admin/preview/2018-02-09/Quotas.json
   - $(this-folder)/Microsoft.Compute.Admin/preview/2015-12-01-preview/VMExtensions.json
+  - $(this-folder)/Microsoft.Compute.Admin/preview/2018-07-30-preview/Disks.json
+  - $(this-folder)/Microsoft.Compute.Admin/preview/2018-07-30-preview/DiskMigrationJobs.json
   - $(this-folder)/Microsoft.Compute.Admin/stable/2021-04-01/Disks.json
   - $(this-folder)/Microsoft.Compute.Admin/stable/2021-04-01/DiskMigrationJobs.json
 
